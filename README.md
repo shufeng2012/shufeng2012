@@ -1,4 +1,4 @@
-# Welcome to my home
+# Welcome to my home👋
 ![github](https://img.shields.io/badge/github-shufeng2012-white?logo=github)
 ![python](https://img.shields.io/badge/python-3.13.5-blue?logo=python)
 ![c](https://img.shields.io/badge/c-99-lightgray?logo=c)
@@ -6,8 +6,8 @@
 ![html](https://img.shields.io/badge/html-5-orange?logo=html5)
 ![javascript](https://img.shields.io/badge/javascript-yellow?logo=javascript)
 ![css](https://img.shields.io/badge/css-black?logo=css)
-## About me
-Hello. It's very nice to meet you. I'm a Chinese middle school student, so I'm not very good at English. Therefore excuse me, please. Please give me your guidance.
+## About me🧑
+Hello.🖐️ It's very nice to meet you. I'm a Chinese middle school student,👨‍🎓 so I'm not very good at English. Therefore excuse me, please. Please give me your guidance.
 
 **My informations**
 + Age: 13
