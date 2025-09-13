@@ -10,4 +10,3 @@ Hello. It's very nice to meet you. I'm a Chinese middle school student, so I'm n
 ## My stats cards
 ![shufeng2012's GitHub stats](https://github-readme-stats.vercel.app/api?username=shufeng2012&theme=transparent)<br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shufeng2012&layout=compact&card_width=450&)<br>
-
