@@ -8,4 +8,5 @@ Hello. It's very nice to meet you. I'm a Chinese middle school student, so I'm n
 + Using programming languages: `Python` `C++`
 
 ## My stats cards
-![shufeng2012's stats card](https://github-readme-stats.vercel.app/api?username=shufeng2012&theme=transparent)
+![shufeng2012's GitHub stats](https://github-readme-stats.vercel.app/api?username=shufeng2012&theme=transparent)<br>
+![shufeng2012's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
