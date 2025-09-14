@@ -14,7 +14,7 @@ Hello.🖐️ It's very nice to meet you. I'm a Chinese middle school student,�
 + From: China
 + 📕Using programming languages: `Python` `C++`
 
-## My stats🔖
+## 📊My stats
 ![shufeng2012's GitHub stats](https://github-readme-stats.vercel.app/api?username=shufeng2012&theme=transparent)<br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shufeng2012&layout=compact&card_width=450&theme=transparent)<br>
 ![Check-in information](https://github-readme-streak-stats.herokuapp.com/?user=shufeng2012&card_width=450&theme=transparent)<br>
